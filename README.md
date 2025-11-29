@@ -6,6 +6,7 @@ S(t) = X1 + X2 + ... + XN(t)
 
 where:
 
+
 N(t) is a Poisson process with rate lambda (interarrival times are exponential)
 Xi are independent exponential random variables with rate mu
 N(t) and Xi are independent
