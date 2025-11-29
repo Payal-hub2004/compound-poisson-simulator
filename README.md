@@ -1,4 +1,5 @@
 Compound Poisson Process Simulation Using R Shiny
+
 This repository contains an R Shiny application that simulates and visualizes the compound process:
 
 S(t) = X1 + X2 + ... + XN(t)
